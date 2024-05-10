@@ -5,4 +5,4 @@ The ResidentRelief web app enhances issue tracking and resolution for hostel res
 ## Tech Stack
 Frontend : Html and Css<br>
 Backend  : Node.js and Express.js<br>
-Database : PostgreSnQL
+Database : PostgreSQL
